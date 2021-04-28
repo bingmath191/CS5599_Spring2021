@@ -1,0 +1,8 @@
+{
+    "0" : "GND Clamp",
+    "1" : "POWER Clamp",
+    "2" : "Pullup",
+    "3" : "Pulldown",
+    "4" : "Rising Waveform",
+    "5" : "Falling Waveform"
+}
